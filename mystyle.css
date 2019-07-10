@@ -1,0 +1,39 @@
+.button {
+  background-color: #7FFFD4;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+
+
+
+
+h1{
+  color : LightGoldenRodYellow;
+  font-size: 60px;
+}
+
+#item {
+  color:purple;
+
+}
+.content{
+  padding: 10px;
+}
+h2{
+  color : white;
+  font-size: 60px;
+  font-family: courier;
+}
+li{
+  font-size: 40px;
+  font-family: monospace;
+}
